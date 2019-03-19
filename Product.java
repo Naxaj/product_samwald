@@ -1,4 +1,5 @@
 public class Product()
 {
-	some stuff
+	some shit
+		some more stuff
 }
